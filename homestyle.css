@@ -1,5 +1,5 @@
 body{
-    background-image: url(./assets/Whangaehu.png);
+  background-image: url(./assets/Whangaehu.png);
     background-color:  black;
 }
 .row {
@@ -56,7 +56,7 @@ body{
     width: 50%;
     margin: auto;
     top: 50%;
-  right: -13%;
+  right: -10%;
     
   }
   
